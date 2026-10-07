@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "devassist-mcp": {
+      "url": "https://devassist-mcp-server.onrender.com/sse"
+    }
+  }
+}
